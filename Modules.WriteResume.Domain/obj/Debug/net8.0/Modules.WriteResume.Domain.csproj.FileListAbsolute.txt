@@ -1,0 +1,11 @@
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.WriteResume.Domain\bin\Debug\net8.0\Modules.WriteResume.Domain.deps.json
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.WriteResume.Domain\bin\Debug\net8.0\Modules.WriteResume.Domain.dll
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.WriteResume.Domain\bin\Debug\net8.0\Modules.WriteResume.Domain.pdb
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.WriteResume.Domain\obj\Debug\net8.0\Modules.WriteResume.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.WriteResume.Domain\obj\Debug\net8.0\Modules.WriteResume.Domain.AssemblyInfoInputs.cache
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.WriteResume.Domain\obj\Debug\net8.0\Modules.WriteResume.Domain.AssemblyInfo.cs
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.WriteResume.Domain\obj\Debug\net8.0\Modules.WriteResume.Domain.csproj.CoreCompileInputs.cache
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.WriteResume.Domain\obj\Debug\net8.0\Modules.WriteResume.Domain.dll
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.WriteResume.Domain\obj\Debug\net8.0\refint\Modules.WriteResume.Domain.dll
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.WriteResume.Domain\obj\Debug\net8.0\Modules.WriteResume.Domain.pdb
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.WriteResume.Domain\obj\Debug\net8.0\ref\Modules.WriteResume.Domain.dll

@@ -1,0 +1,17 @@
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.Notifications.Application\bin\Debug\net8.0\Modules.Notifications.Application.deps.json
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.Notifications.Application\bin\Debug\net8.0\Modules.Notifications.Application.dll
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.Notifications.Application\bin\Debug\net8.0\Modules.Notifications.Application.pdb
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.Notifications.Application\obj\Debug\net8.0\Modules.Notifications.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.Notifications.Application\obj\Debug\net8.0\Modules.Notifications.Application.AssemblyInfoInputs.cache
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.Notifications.Application\obj\Debug\net8.0\Modules.Notifications.Application.AssemblyInfo.cs
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.Notifications.Application\obj\Debug\net8.0\Modules.Notifications.Application.csproj.CoreCompileInputs.cache
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.Notifications.Application\obj\Debug\net8.0\Modules.Notifications.Application.dll
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.Notifications.Application\obj\Debug\net8.0\refint\Modules.Notifications.Application.dll
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.Notifications.Application\obj\Debug\net8.0\Modules.Notifications.Application.pdb
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.Notifications.Application\obj\Debug\net8.0\ref\Modules.Notifications.Application.dll
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.Notifications.Application\bin\Debug\net8.0\ExcellentCvWriter.SharedKernel.dll
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.Notifications.Application\bin\Debug\net8.0\Modules.Users.IntegrationEvents.dll
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.Notifications.Application\bin\Debug\net8.0\Modules.Users.IntegrationEvents.pdb
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.Notifications.Application\bin\Debug\net8.0\ExcellentCvWriter.SharedKernel.pdb
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.Notifications.Application\obj\Debug\net8.0\Modules.Notifications.Application.csproj.AssemblyReference.cache
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.Notifications.Application\obj\Debug\net8.0\Modules.Notifications.Application.csproj.CopyComplete

@@ -1,0 +1,17 @@
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.Users.Persistence\bin\Debug\net8.0\Modules.Users.Persistence.deps.json
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.Users.Persistence\bin\Debug\net8.0\Modules.Users.Persistence.dll
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.Users.Persistence\bin\Debug\net8.0\Modules.Users.Persistence.pdb
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.Users.Persistence\obj\Debug\net8.0\Modules.Users.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.Users.Persistence\obj\Debug\net8.0\Modules.Users.Persistence.AssemblyInfoInputs.cache
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.Users.Persistence\obj\Debug\net8.0\Modules.Users.Persistence.AssemblyInfo.cs
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.Users.Persistence\obj\Debug\net8.0\Modules.Users.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.Users.Persistence\obj\Debug\net8.0\Modules.Users.Persistence.dll
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.Users.Persistence\obj\Debug\net8.0\refint\Modules.Users.Persistence.dll
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.Users.Persistence\obj\Debug\net8.0\Modules.Users.Persistence.pdb
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.Users.Persistence\obj\Debug\net8.0\ref\Modules.Users.Persistence.dll
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.Users.Persistence\bin\Debug\net8.0\ExcellentCvWriter.SharedKernel.dll
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.Users.Persistence\bin\Debug\net8.0\Modules.Users.Domain.dll
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.Users.Persistence\bin\Debug\net8.0\ExcellentCvWriter.SharedKernel.pdb
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.Users.Persistence\bin\Debug\net8.0\Modules.Users.Domain.pdb
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.Users.Persistence\obj\Debug\net8.0\Modules.Users.Persistence.csproj.AssemblyReference.cache
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.Users.Persistence\obj\Debug\net8.0\Modules.Users.Persistence.csproj.CopyComplete

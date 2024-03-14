@@ -1,0 +1,11 @@
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.Notifications.Infrastructure\bin\Debug\net8.0\Modules.Notifications.Infrastructure.deps.json
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.Notifications.Infrastructure\bin\Debug\net8.0\Modules.Notifications.Infrastructure.dll
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.Notifications.Infrastructure\bin\Debug\net8.0\Modules.Notifications.Infrastructure.pdb
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.Notifications.Infrastructure\obj\Debug\net8.0\Modules.Notifications.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.Notifications.Infrastructure\obj\Debug\net8.0\Modules.Notifications.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.Notifications.Infrastructure\obj\Debug\net8.0\Modules.Notifications.Infrastructure.AssemblyInfo.cs
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.Notifications.Infrastructure\obj\Debug\net8.0\Modules.Notifications.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.Notifications.Infrastructure\obj\Debug\net8.0\Modules.Notifications.Infrastructure.dll
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.Notifications.Infrastructure\obj\Debug\net8.0\refint\Modules.Notifications.Infrastructure.dll
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.Notifications.Infrastructure\obj\Debug\net8.0\Modules.Notifications.Infrastructure.pdb
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.Notifications.Infrastructure\obj\Debug\net8.0\ref\Modules.Notifications.Infrastructure.dll

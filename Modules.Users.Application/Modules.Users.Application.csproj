@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\ExcellentCvWriter.SharedKernel\ExcellentCvWriter.SharedKernel.csproj" />
+      <ProjectReference Include="..\Modules.Users.Domain\Modules.Users.Domain.csproj" />
+      <ProjectReference Include="..\Modules.Users.IntegrationEvents\Modules.Users.IntegrationEvents.csproj" />
+    </ItemGroup>
+
+</Project>

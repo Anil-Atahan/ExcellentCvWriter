@@ -1,0 +1,57 @@
+using ExcellentCvWriter.SharedKernel.Domain.Primitives;
+using ExcellentCvWriter.SharedKernel.Persistence.Outbox;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Diagnostics;
+using Newtonsoft.Json;
+
+namespace ExcellentCvWriter.SharedKernel.Persistence.Interceptors;
+
+/// <summary>
+/// Represents the interceptor for converting domain events to outbox messages.
+/// </summary>
+public sealed class ConvertDomainEventsToOutboxMessagesInterceptor : SaveChangesInterceptor
+{
+    private static readonly JsonSerializerSettings JsonSerializerSettings = new()
+    {
+        TypeNameHandling = TypeNameHandling.All
+    };
+
+    /// <inheritdoc />
+    public override ValueTask<InterceptionResult<int>> SavingChangesAsync(
+        DbContextEventData eventData,
+        InterceptionResult<int> result,
+        CancellationToken cancellationToken = default)
+    {
+        if (eventData.Context is null)
+        {
+            return base.SavingChangesAsync(eventData, result, cancellationToken);
+        }
+
+        IEnumerable<OutboxMessage> outboxMessages = CreateOutboxMessages(eventData.Context);
+
+        eventData.Context.Set<OutboxMessage>().AddRange(outboxMessages);
+
+        return base.SavingChangesAsync(eventData, result, cancellationToken);
+    }
+
+    private static IEnumerable<OutboxMessage> CreateOutboxMessages(DbContext dbContext)
+    {
+        return dbContext
+            .ChangeTracker
+            .Entries<IEntity>()
+            .Select(entityEntry => entityEntry.Entity)
+            .SelectMany(entity =>
+            {
+                var domainEvents = entity.GetDomainEvents();
+                entity.ClearDomainEvents(); // Clear domain events directly
+                return domainEvents;
+            })
+            .Select(domainEvent => new OutboxMessage(
+                domainEvent.Id,
+                domainEvent.OccurredOnUtc,
+                domainEvent.GetType().Name,
+                JsonConvert.SerializeObject(domainEvent, JsonSerializerSettings)))
+            .ToList();
+    }
+        
+}

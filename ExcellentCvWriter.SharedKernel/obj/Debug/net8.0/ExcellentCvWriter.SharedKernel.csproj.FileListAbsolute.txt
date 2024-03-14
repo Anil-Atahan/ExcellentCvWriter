@@ -1,0 +1,12 @@
+C:\Users\anila\RiderProjects\ExcellentCvWriter\ExcellentCvWriter.SharedKernel\bin\Debug\net8.0\ExcellentCvWriter.SharedKernel.deps.json
+C:\Users\anila\RiderProjects\ExcellentCvWriter\ExcellentCvWriter.SharedKernel\bin\Debug\net8.0\ExcellentCvWriter.SharedKernel.dll
+C:\Users\anila\RiderProjects\ExcellentCvWriter\ExcellentCvWriter.SharedKernel\bin\Debug\net8.0\ExcellentCvWriter.SharedKernel.pdb
+C:\Users\anila\RiderProjects\ExcellentCvWriter\ExcellentCvWriter.SharedKernel\obj\Debug\net8.0\ExcellentCvWriter.SharedKernel.csproj.AssemblyReference.cache
+C:\Users\anila\RiderProjects\ExcellentCvWriter\ExcellentCvWriter.SharedKernel\obj\Debug\net8.0\ExcellentCvWriter.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anila\RiderProjects\ExcellentCvWriter\ExcellentCvWriter.SharedKernel\obj\Debug\net8.0\ExcellentCvWriter.SharedKernel.AssemblyInfoInputs.cache
+C:\Users\anila\RiderProjects\ExcellentCvWriter\ExcellentCvWriter.SharedKernel\obj\Debug\net8.0\ExcellentCvWriter.SharedKernel.AssemblyInfo.cs
+C:\Users\anila\RiderProjects\ExcellentCvWriter\ExcellentCvWriter.SharedKernel\obj\Debug\net8.0\ExcellentCvWriter.SharedKernel.csproj.CoreCompileInputs.cache
+C:\Users\anila\RiderProjects\ExcellentCvWriter\ExcellentCvWriter.SharedKernel\obj\Debug\net8.0\ExcellentCvWriter.SharedKernel.dll
+C:\Users\anila\RiderProjects\ExcellentCvWriter\ExcellentCvWriter.SharedKernel\obj\Debug\net8.0\refint\ExcellentCvWriter.SharedKernel.dll
+C:\Users\anila\RiderProjects\ExcellentCvWriter\ExcellentCvWriter.SharedKernel\obj\Debug\net8.0\ExcellentCvWriter.SharedKernel.pdb
+C:\Users\anila\RiderProjects\ExcellentCvWriter\ExcellentCvWriter.SharedKernel\obj\Debug\net8.0\ref\ExcellentCvWriter.SharedKernel.dll

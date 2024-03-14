@@ -1,0 +1,11 @@
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.CheckResume.Infrastructure\bin\Debug\net8.0\Modules.CheckResume.Infrastructure.deps.json
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.CheckResume.Infrastructure\bin\Debug\net8.0\Modules.CheckResume.Infrastructure.dll
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.CheckResume.Infrastructure\bin\Debug\net8.0\Modules.CheckResume.Infrastructure.pdb
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.CheckResume.Infrastructure\obj\Debug\net8.0\Modules.CheckResume.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.CheckResume.Infrastructure\obj\Debug\net8.0\Modules.CheckResume.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.CheckResume.Infrastructure\obj\Debug\net8.0\Modules.CheckResume.Infrastructure.AssemblyInfo.cs
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.CheckResume.Infrastructure\obj\Debug\net8.0\Modules.CheckResume.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.CheckResume.Infrastructure\obj\Debug\net8.0\Modules.CheckResume.Infrastructure.dll
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.CheckResume.Infrastructure\obj\Debug\net8.0\refint\Modules.CheckResume.Infrastructure.dll
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.CheckResume.Infrastructure\obj\Debug\net8.0\Modules.CheckResume.Infrastructure.pdb
+C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.CheckResume.Infrastructure\obj\Debug\net8.0\ref\Modules.CheckResume.Infrastructure.dll
