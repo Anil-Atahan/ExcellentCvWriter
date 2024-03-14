@@ -47,7 +47,6 @@ var routeGroupBuilder = app.MapGroup("api/v1");
 routeGroupBuilder
     .InstallEndpoints(
         Modules.Users.Endpoints.AssemblyReference.Assembly);
-
 app.MapControllers();
 
 app.MapHealthChecks("health", new HealthCheckOptions

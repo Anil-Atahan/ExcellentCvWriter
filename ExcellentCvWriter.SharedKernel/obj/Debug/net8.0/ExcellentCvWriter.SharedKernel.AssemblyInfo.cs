@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExcellentCvWriter.SharedKernel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64c07156b2665d02124fce9671ae97ae2c30f2ae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+706de08af21f084b9f934b88bd68a0131187ad84")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExcellentCvWriter.SharedKernel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExcellentCvWriter.SharedKernel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
