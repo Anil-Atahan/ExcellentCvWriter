@@ -18,11 +18,6 @@ public sealed class User : Entity<UserId>, IAuditable
         FirstName = firstName;
         LastName = lastName;
     }
-
-    private User()
-    {
-
-    }
         
     public string Email { get; private set; }
 

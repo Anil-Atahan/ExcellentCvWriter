@@ -1,4 +1,6 @@
-﻿services:
+﻿version: '3.4'
+
+services:
   excellentcvwriter.api:
     image: ${DOCKER_REGISTRY-}excellentcvwriter
     container_name: ExcellentCvWriter.Api

@@ -1,5 +1,6 @@
 using ExcellentCvWriter.SharedKernel.Infrastructure.Extensions;
 using ExcellentCvWriter.SharedKernel.Infrastructure.Utilities;
+using FluentValidation;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Modules.Users.Infrastructure.Idempotence;
@@ -15,6 +16,7 @@ internal sealed class ApplicationServiceInstaller : IServiceInstaller
     public void Install(IServiceCollection services, IConfiguration configuration)
     {
         services.AddMediatR(cfg => cfg.RegisterServicesFromAssemblies(Application.AssemblyReference.Assembly));
+        services.AddValidatorsFromAssembly(Application.AssemblyReference.Assembly, includeInternalTypes: true);
         DecorateDomainEventHandlersWithIdempotency(services);
         AddAndDecorateIntegrationEventHandlersWithIdempotency(services);
     }

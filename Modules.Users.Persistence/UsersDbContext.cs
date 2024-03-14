@@ -16,7 +16,5 @@ public sealed class UsersDbContext : DbContext
         modelBuilder.HasDefaultSchema(Schemas.Users);
         
         modelBuilder.ApplyConfigurationsFromAssembly(typeof(UsersDbContext).Assembly);
-
-        base.OnModelCreating(modelBuilder);
     }
 }

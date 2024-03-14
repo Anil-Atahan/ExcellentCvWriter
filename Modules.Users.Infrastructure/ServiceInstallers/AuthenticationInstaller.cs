@@ -16,7 +16,6 @@ internal sealed class AuthenticationInstaller : IServiceInstaller
     /// <inheritdoc />
     public void Install(IServiceCollection services, IConfiguration configuration)
     {
-
         services
             .AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
             .AddJwtBearer();
