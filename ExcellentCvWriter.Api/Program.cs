@@ -1,6 +1,8 @@
 using ExcellentCvWriter.Api.Extensions;
 using ExcellentCvWriter.SharedKernel.Endpoints;
 using ExcellentCvWriter.SharedKernel.Infrastructure.Extensions;
+using HealthChecks.UI.Client;
+using Microsoft.AspNetCore.Diagnostics.HealthChecks;
 using Serilog;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -47,5 +49,10 @@ routeGroupBuilder
         Modules.Users.Endpoints.AssemblyReference.Assembly);
 
 app.MapControllers();
+
+app.MapHealthChecks("health", new HealthCheckOptions
+{
+    ResponseWriter = UIResponseWriter.WriteHealthCheckUIResponse
+});
 
 app.Run();

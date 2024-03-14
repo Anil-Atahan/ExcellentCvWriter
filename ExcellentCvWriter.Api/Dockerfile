@@ -8,13 +8,14 @@ FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
 COPY ["ExcellentCvWriter.Api/ExcellentCvWriter.Api.csproj", "ExcellentCvWriter.Api/"]
-COPY ["ExcellentCvWriter.SharedKernel/ExcellentCvWriter.SharedKernel.csproj", "ExcellentCvWriter.SharedKernel/"]
 COPY ["Modules.Notifications.Infrastructure/Modules.Notifications.Infrastructure.csproj", "Modules.Notifications.Infrastructure/"]
 COPY ["Modules.Users.Infrastructure/Modules.Users.Infrastructure.csproj", "Modules.Users.Infrastructure/"]
 COPY ["Modules.Users.Endpoints/Modules.Users.Endpoints.csproj", "Modules.Users.Endpoints/"]
 COPY ["Modules.Users.Application/Modules.Users.Application.csproj", "Modules.Users.Application/"]
-COPY ["Modules.Users.Persistence/Modules.Users.Persistence.csproj", "Modules.Users.Persistence/"]
 COPY ["Modules.Users.Domain/Modules.Users.Domain.csproj", "Modules.Users.Domain/"]
+COPY ["ExcellentCvWriter.SharedKernel/ExcellentCvWriter.SharedKernel.csproj", "ExcellentCvWriter.SharedKernel/"]
+COPY ["Modules.Users.IntegrationEvents/Modules.Users.IntegrationEvents.csproj", "Modules.Users.IntegrationEvents/"]
+COPY ["Modules.Users.Persistence/Modules.Users.Persistence.csproj", "Modules.Users.Persistence/"]
 RUN dotnet restore "ExcellentCvWriter.Api/ExcellentCvWriter.Api.csproj"
 COPY . .
 WORKDIR "/src/ExcellentCvWriter.Api"
