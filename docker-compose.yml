@@ -37,3 +37,9 @@
     ports:
       - 5341:5341
       - 8081:80
+  excellentcvwriter-redis:
+    image: redis:latest
+    container_name: ExcellentCvWriter.Redis
+    restart: always
+    ports:
+      - '6379:6379'

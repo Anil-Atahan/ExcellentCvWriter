@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wh5caD+J53Ae6ibqst2NYZcnRJsBPpO3gfRDr3GQf6DUD6wSTgkMfb+JQ4eduKMU2JEfEpnCJjzq0Bm8oWYEcA==",
+  "dgSpecHash": "w4BONy9ZJKLfCoRaLHSprL7kGtWgQNk9fpZw2nOo7BYormZbm8STc7fuUA3segbnbz8x8bmbitxyoWgKHtUFVQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\anila\\RiderProjects\\ExcellentCvWriter\\Modules.CheckResume.Domain\\Modules.CheckResume.Domain.csproj",
+  "projectFilePath": "/Users/anilatahan/ExcellentCvWriter/Modules.CheckResume.Domain/Modules.CheckResume.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zGAKAqIjrT7saJ/Q472OTdCZqcY2zoM6BHv3jbh6jHqU7W4jspO0UgZBQA47wWBUJI6Qb+caik+bvbY+F2Widw==",
+  "dgSpecHash": "IOPbyCEYbJ6abmZ6anoHELfMwLIGUzoao9eow21KtnDAY8APJfUlb9CzaZP8IDEtpta3gMTh196YgGb44McqYA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\anila\\RiderProjects\\ExcellentCvWriter\\Modules.CheckResume.Persistence\\Modules.CheckResume.Persistence.csproj",
+  "projectFilePath": "/Users/anilatahan/ExcellentCvWriter/Modules.CheckResume.Persistence/Modules.CheckResume.Persistence.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
