@@ -1,9 +1,9 @@
 using System.Reflection;
 
-namespace Modules.Notifications.Infrastructure;
+namespace Modules.Resume.Infrastructure;
 
 /// <summary>
-/// Represents the notifications module infrastructure assembly reference.
+/// Represents the resume module infrastructure assembly reference.
 /// </summary>
 public static class AssemblyReference
 {
