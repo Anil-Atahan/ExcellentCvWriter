@@ -3,7 +3,7 @@ using System.Reflection;
 namespace Modules.Notifications.Infrastructure;
 
 /// <summary>
-/// Represents the notification module infrastructure assembly reference.
+/// Represents the notifications module application assembly reference.
 /// </summary>
 public static class AssemblyReference
 {
