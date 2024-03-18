@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Modules.Users.Endpoints
-build_property.ProjectDir = /Users/anilatahan/ExcellentCvWriter/Modules.Users.Endpoints/
+build_property.ProjectDir = C:\Users\anila\RiderProjects\ExcellentCvWriter\Modules.Users.Endpoints\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -6427,38 +6427,45 @@
     ]
   },
   "packageFolders": {
-    "/Users/anilatahan/.nuget/packages/": {}
+    "C:\\Users\\anila\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/anilatahan/ExcellentCvWriter/ExcellentCvWriter.Api/ExcellentCvWriter.Api.csproj",
+      "projectUniqueName": "C:\\Users\\anila\\RiderProjects\\ExcellentCvWriter\\ExcellentCvWriter.Api\\ExcellentCvWriter.Api.csproj",
       "projectName": "ExcellentCvWriter.Api",
-      "projectPath": "/Users/anilatahan/ExcellentCvWriter/ExcellentCvWriter.Api/ExcellentCvWriter.Api.csproj",
-      "packagesPath": "/Users/anilatahan/.nuget/packages/",
-      "outputPath": "/Users/anilatahan/ExcellentCvWriter/ExcellentCvWriter.Api/obj/",
+      "projectPath": "C:\\Users\\anila\\RiderProjects\\ExcellentCvWriter\\ExcellentCvWriter.Api\\ExcellentCvWriter.Api.csproj",
+      "packagesPath": "C:\\Users\\anila\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\anila\\RiderProjects\\ExcellentCvWriter\\ExcellentCvWriter.Api\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/anilatahan/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\anila\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/anilatahan/ExcellentCvWriter/ExcellentCvWriter.SharedKernel/ExcellentCvWriter.SharedKernel.csproj": {
-              "projectPath": "/Users/anilatahan/ExcellentCvWriter/ExcellentCvWriter.SharedKernel/ExcellentCvWriter.SharedKernel.csproj"
+            "C:\\Users\\anila\\RiderProjects\\ExcellentCvWriter\\ExcellentCvWriter.SharedKernel\\ExcellentCvWriter.SharedKernel.csproj": {
+              "projectPath": "C:\\Users\\anila\\RiderProjects\\ExcellentCvWriter\\ExcellentCvWriter.SharedKernel\\ExcellentCvWriter.SharedKernel.csproj"
             },
-            "/Users/anilatahan/ExcellentCvWriter/Modules.Notifications.Infrastructure/Modules.Notifications.Infrastructure.csproj": {
-              "projectPath": "/Users/anilatahan/ExcellentCvWriter/Modules.Notifications.Infrastructure/Modules.Notifications.Infrastructure.csproj"
+            "C:\\Users\\anila\\RiderProjects\\ExcellentCvWriter\\Modules.Notifications.Infrastructure\\Modules.Notifications.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\anila\\RiderProjects\\ExcellentCvWriter\\Modules.Notifications.Infrastructure\\Modules.Notifications.Infrastructure.csproj"
             },
-            "/Users/anilatahan/ExcellentCvWriter/Modules.Users.Infrastructure/Modules.Users.Infrastructure.csproj": {
-              "projectPath": "/Users/anilatahan/ExcellentCvWriter/Modules.Users.Infrastructure/Modules.Users.Infrastructure.csproj"
+            "C:\\Users\\anila\\RiderProjects\\ExcellentCvWriter\\Modules.Users.Infrastructure\\Modules.Users.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\anila\\RiderProjects\\ExcellentCvWriter\\Modules.Users.Infrastructure\\Modules.Users.Infrastructure.csproj"
             }
           }
         }
@@ -6519,7 +6526,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/8.0.1/libexec/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

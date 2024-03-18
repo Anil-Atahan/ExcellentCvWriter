@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QcBeviF6LsPmGV6iYjtY2GKhtJNx6758SMHUUrbcYKvGCHunVC1ucxos8QG+9mI1yYJ8geKkZKUTCrGp8kbRUw==",
+  "dgSpecHash": "xemoDqsZgi38iBE/7Cskr5022H2neSalX1vcuxHw5NLD/5IR2siAqbz0rg00SM6AKSHUNNJcTCy6ZP8hH4hpJg==",
   "success": true,
-  "projectFilePath": "/Users/anilatahan/ExcellentCvWriter/Modules.Notifications.Domain/Modules.Notifications.Domain.csproj",
+  "projectFilePath": "C:\\Users\\anila\\RiderProjects\\ExcellentCvWriter\\Modules.Notifications.Domain\\Modules.Notifications.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
